@@ -1,0 +1,6 @@
+{
+  "name": "VoxAI Studio - Enterprise AI Voice & Multi-Source TTS",
+  "description": "Multi-source AI voice synthesis platform supporting direct text, document file uploads (PDF, DOCX, TXT, RTF, MD), and safe article link extraction into high-fidelity multilingual speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
